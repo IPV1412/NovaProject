@@ -1,0 +1,575 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1755257782714625, "dur":30936, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1755257782745565, "dur":161, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1755257782745802, "dur":509, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1755257782746477, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/level1" }}
+,{ "pid":12345, "tid":0, "ts":1755257782746349, "dur":4002, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1755257782750352, "dur":9874212, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1755257792624566, "dur":91, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1755257792624657, "dur":140, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1755257792624797, "dur":84, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1755257792625075, "dur":2086, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1755257782746327, "dur":4035, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1755257782754749, "dur":616, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/il2cpp/build/deploy" }}
+,{ "pid":12345, "tid":1, "ts":1755257782755365, "dur":5015, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/il2cpp/libil2cpp" }}
+,{ "pid":12345, "tid":1, "ts":1755257782760381, "dur":85, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport" }}
+,{ "pid":12345, "tid":1, "ts":1755257782760466, "dur":1076, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono" }}
+,{ "pid":12345, "tid":1, "ts":1755257782761542, "dur":73, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/Data/Resources" }}
+,{ "pid":12345, "tid":1, "ts":1755257782761615, "dur":170, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/Tools/BuildPipeline" }}
+,{ "pid":12345, "tid":1, "ts":1755257782761785, "dur":129, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"Library/PlayerDataCache/Win642/Data" }}
+,{ "pid":12345, "tid":1, "ts":1755257782750370, "dur":11603, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1755257782761995, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteResponseFile Library/Bee/artifacts/rsp/4661686945817066567.rsp" }}
+,{ "pid":12345, "tid":1, "ts":1755257782762094, "dur":1005, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"UnityLinker C:/Users/OVERLORD/Documents/JHONY/Escuela/NovaProject/Library/Bee/artifacts/unitylinker_dwek.traceevents" }}
+,{ "pid":12345, "tid":1, "ts":1755257782763100, "dur":2784, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1755257782770914, "dur":87474, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1755257782858455, "dur":353483, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Mono.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1755257783211947, "dur":46009, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Configuration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1755257783257965, "dur":157051, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Drawing.dll" }}
+,{ "pid":12345, "tid":1, "ts":1755257783415061, "dur":7569, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1755257783422715, "dur":104916, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\OVERLORD\\Documents\\JHONY\\Escuela\\NovaProject\\Library\\PackageCache\\com.unity.burst\\.Runtime\\bcl.exe" }}
+,{ "pid":12345, "tid":1, "ts":1755257782770858, "dur":756774, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"GenerateNativePluginsForAssemblies Library/Bee/artifacts/WinPlayerBuildProgram/AsyncPluginsFromLinker" }}
+,{ "pid":12345, "tid":1, "ts":1755257783528608, "dur":9095709, "ph":"X", "name": "GenerateNativePluginsForAssemblies",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/AsyncPluginsFromLinker" }}
+,{ "pid":12345, "tid":2, "ts":1755257782746415, "dur":3978, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1755257782750401, "dur":2141, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1755257782752543, "dur":1509, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1755257782754052, "dur":989, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1755257782755042, "dur":6960, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1755257782762003, "dur":203, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1755257782762207, "dur":101, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1755257782762317, "dur":101, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1755257782762426, "dur":113, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1755257782762545, "dur":8312, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1755257782770959, "dur":875, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":2, "ts":1755257782770858, "dur":977, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":2, "ts":1755257782773264, "dur":2269, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":2, "ts":1755257782775578, "dur":32306, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1755257782775536, "dur":32350, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1755257782807914, "dur":1075, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1755257782809046, "dur":71794, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Transactions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1755257782808992, "dur":71850, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1755257782880865, "dur":1184, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1755257782882106, "dur":67783, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1755257782882052, "dur":67839, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1755257782949902, "dur":131, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1755257782950040, "dur":1139, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1755257782951230, "dur":30012, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Multiplayer.Center.Common.dll" }}
+,{ "pid":12345, "tid":2, "ts":1755257782951183, "dur":30061, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.Multiplayer.Center.Common.dll" }}
+,{ "pid":12345, "tid":2, "ts":1755257782981293, "dur":1988, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.Multiplayer.Center.Common.dll" }}
+,{ "pid":12345, "tid":2, "ts":1755257782983336, "dur":49665, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1755257782983283, "dur":49719, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1755257783033044, "dur":1092, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1755257783034191, "dur":27632, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1755257783034139, "dur":27685, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1755257783061848, "dur":1076, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1755257783062966, "dur":87536, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1755257783062927, "dur":87576, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1755257783150544, "dur":1486, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1755257783152081, "dur":61350, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1755257783152034, "dur":61399, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1755257783213461, "dur":1221, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1755257783214735, "dur":50274, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1755257783214686, "dur":50325, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1755257783265045, "dur":1356, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1755257783266454, "dur":78141, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Collections.dll" }}
+,{ "pid":12345, "tid":2, "ts":1755257783266403, "dur":78194, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.Collections.dll" }}
+,{ "pid":12345, "tid":2, "ts":1755257783344644, "dur":1550, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.Collections.dll" }}
+,{ "pid":12345, "tid":2, "ts":1755257783346201, "dur":9278359, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1755257782746363, "dur":4008, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1755257782750790, "dur":637, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.28f1\\Editor\\Data\\il2cpp\\build\\deploy\\UnityLinker.dll.config" }}
+,{ "pid":12345, "tid":3, "ts":1755257782750380, "dur":2083, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1755257782752464, "dur":2385, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1755257782754849, "dur":7140, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1755257782761990, "dur":129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":3, "ts":1755257782762119, "dur":135, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1755257782762259, "dur":139, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":3, "ts":1755257782762398, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1755257782762455, "dur":98, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1755257782762556, "dur":8335, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1755257782771076, "dur":85459, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Net.Http.dll" }}
+,{ "pid":12345, "tid":3, "ts":1755257782770892, "dur":85644, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":3, "ts":1755257782856581, "dur":2249, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":3, "ts":1755257782858878, "dur":23062, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1755257782858832, "dur":23109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1755257782881962, "dur":1644, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1755257782883665, "dur":24034, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1755257782883609, "dur":24091, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1755257782907741, "dur":1043, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1755257782908841, "dur":120757, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Burst.dll" }}
+,{ "pid":12345, "tid":3, "ts":1755257782908788, "dur":120812, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":3, "ts":1755257783029607, "dur":74, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1755257783029685, "dur":1372, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":3, "ts":1755257783031123, "dur":204065, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.dll" }}
+,{ "pid":12345, "tid":3, "ts":1755257783031059, "dur":204131, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":3, "ts":1755257783235206, "dur":2360, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":3, "ts":1755257783237614, "dur":177395, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Drawing.dll" }}
+,{ "pid":12345, "tid":3, "ts":1755257783237570, "dur":177441, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":3, "ts":1755257783415030, "dur":1081, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":3, "ts":1755257783416113, "dur":9208466, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1755257782746403, "dur":3980, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1755257782750391, "dur":1677, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1755257782752068, "dur":1756, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1755257782753824, "dur":1107, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1755257782754931, "dur":7065, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1755257782761998, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1755257782762086, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1755257782762152, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1755257782762225, "dur":111, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1755257782762396, "dur":124, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1755257782762529, "dur":8331, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1755257782770943, "dur":27220, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1755257782770862, "dur":27303, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1755257782798391, "dur":1980, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1755257782800418, "dur":24799, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1755257782800374, "dur":24844, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1755257782825238, "dur":1296, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1755257782826579, "dur":27679, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1755257782826538, "dur":27722, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1755257782854283, "dur":1286, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1755257782855621, "dur":26659, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1755257782855572, "dur":26709, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1755257782882300, "dur":1402, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1755257782883751, "dur":83623, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1755257782883703, "dur":83673, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1755257782967438, "dur":1490, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1755257782968981, "dur":71589, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1755257782968932, "dur":71640, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1755257783040596, "dur":1113, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1755257783041759, "dur":88006, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1755257783041713, "dur":88054, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1755257783129794, "dur":1805, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1755257783131649, "dur":25033, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1755257783131602, "dur":25082, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1755257783156711, "dur":1520, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1755257783158281, "dur":37228, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1755257783158235, "dur":37275, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1755257783195529, "dur":2307, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1755257783197885, "dur":26469, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":4, "ts":1755257783197839, "dur":26518, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":4, "ts":1755257783224385, "dur":1174, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":4, "ts":1755257783225608, "dur":76087, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1755257783225561, "dur":76139, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1755257783301712, "dur":1017, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1755257783302782, "dur":60117, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1755257783302731, "dur":60170, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1755257783362936, "dur":977, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1755257783363914, "dur":9260758, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1755257782746451, "dur":3952, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1755257782750411, "dur":1496, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1755257782751908, "dur":1456, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1755257782753364, "dur":1304, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1755257782754669, "dur":7340, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1755257782762011, "dur":169, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1755257782762181, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1755257782762242, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":5, "ts":1755257782762337, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1755257782762460, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1755257782762564, "dur":8328, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1755257782771031, "dur":106701, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":5, "ts":1755257782770893, "dur":106841, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":5, "ts":1755257782877762, "dur":4570, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":5, "ts":1755257782882381, "dur":108977, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":5, "ts":1755257782882334, "dur":109026, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":5, "ts":1755257782991386, "dur":1588, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":5, "ts":1755257782993026, "dur":35620, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1755257782992977, "dur":35671, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1755257783028675, "dur":1198, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1755257783029924, "dur":109613, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":5, "ts":1755257783029877, "dur":109662, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":5, "ts":1755257783139554, "dur":1581, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":5, "ts":1755257783141189, "dur":107166, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":5, "ts":1755257783141138, "dur":107219, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":5, "ts":1755257783248391, "dur":3636, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":5, "ts":1755257783252079, "dur":25062, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1755257783252031, "dur":25111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1755257783277165, "dur":1011, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1755257783278224, "dur":106215, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":5, "ts":1755257783278179, "dur":106261, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":5, "ts":1755257783384457, "dur":1392, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":5, "ts":1755257783385850, "dur":9238807, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1755257782746488, "dur":3925, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1755257782750421, "dur":1816, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1755257782752238, "dur":1348, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1755257782753586, "dur":1547, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1755257782755133, "dur":6853, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1755257782761997, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":6, "ts":1755257782762107, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1755257782762166, "dur":131, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1755257782762348, "dur":127, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1755257782762482, "dur":82, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1755257782762568, "dur":8326, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1755257782771048, "dur":83507, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Numerics.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755257782770895, "dur":83661, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755257782854590, "dur":1238, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755257782855872, "dur":30479, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755257782855830, "dur":30522, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755257782886372, "dur":1195, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755257782887620, "dur":128745, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755257782887570, "dur":128796, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755257783016378, "dur":1502, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755257783017937, "dur":728, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipelines.Core.Runtime.Shared.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755257783017883, "dur":784, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.RenderPipelines.Core.Runtime.Shared.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755257783018681, "dur":967, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.RenderPipelines.Core.Runtime.Shared.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755257783019699, "dur":59980, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755257783019650, "dur":60031, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755257783079711, "dur":3990, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755257783083753, "dur":48162, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755257783083704, "dur":48212, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755257783131931, "dur":875, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755257783132848, "dur":24230, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755257783132809, "dur":24270, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755257783157093, "dur":1396, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755257783158535, "dur":33297, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755257783158491, "dur":33343, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755257783191864, "dur":1491, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755257783193455, "dur":39361, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GraphicsStateCollectionSerializerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755257783193404, "dur":39413, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.GraphicsStateCollectionSerializerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755257783232831, "dur":2407, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.GraphicsStateCollectionSerializerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755257783235320, "dur":157142, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755257783235240, "dur":157223, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755257783392480, "dur":1373, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755257783393855, "dur":9230736, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1755257782746517, "dur":3906, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1755257782750432, "dur":1778, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1755257782752211, "dur":2214, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1755257782754425, "dur":7587, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1755257782762019, "dur":183, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1755257782762203, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1755257782762264, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject.exe" }}
+,{ "pid":12345, "tid":7, "ts":1755257782762417, "dur":121, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1755257782762542, "dur":8343, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1755257782770944, "dur":185908, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1755257782770886, "dur":185968, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1755257782956892, "dur":3184, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1755257782960168, "dur":1038, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipelines.Universal.Config.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1755257782960080, "dur":1128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.RenderPipelines.Universal.Config.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1755257782961229, "dur":1046, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.RenderPipelines.Universal.Config.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1755257782962321, "dur":220142, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1755257782962278, "dur":220187, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1755257783182482, "dur":1282, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1755257783183812, "dur":56752, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1755257783183766, "dur":56799, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1755257783240590, "dur":1220, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1755257783241864, "dur":88307, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1755257783241814, "dur":88359, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1755257783330207, "dur":1150, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1755257783331373, "dur":972, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1755257783332347, "dur":9292216, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1755257782746557, "dur":3881, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1755257782750448, "dur":2415, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1755257782753532, "dur":540, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.28f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\Facades\\System.Diagnostics.Process.dll" }}
+,{ "pid":12345, "tid":8, "ts":1755257782752863, "dur":1897, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1755257782754761, "dur":7213, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1755257782762025, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1755257782762089, "dur":794, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":8, "ts":1755257782762964, "dur":7899, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1755257782771054, "dur":27231, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1755257782770865, "dur":27422, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1755257782798504, "dur":2011, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1755257782800574, "dur":121981, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipelines.Universal.2D.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1755257782800517, "dur":122041, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.RenderPipelines.Universal.2D.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1755257782922601, "dur":5143, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.RenderPipelines.Universal.2D.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1755257782927803, "dur":39855, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1755257782927748, "dur":39912, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1755257782967673, "dur":1548, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1755257782969269, "dur":25181, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1755257782969222, "dur":25229, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1755257782994471, "dur":1146, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1755257782995664, "dur":53371, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":8, "ts":1755257782995619, "dur":53418, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":8, "ts":1755257783049064, "dur":1957, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":8, "ts":1755257783051070, "dur":28637, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1755257783051024, "dur":28684, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1755257783079723, "dur":12648, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1755257783092434, "dur":101416, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1755257783092374, "dur":101478, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1755257783193870, "dur":1364, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1755257783195288, "dur":56777, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":8, "ts":1755257783195237, "dur":56829, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":8, "ts":1755257783252082, "dur":1202, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":8, "ts":1755257783253338, "dur":138541, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":8, "ts":1755257783253286, "dur":138594, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":8, "ts":1755257783391895, "dur":1055, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":8, "ts":1755257783392952, "dur":9231659, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1755257782746597, "dur":3854, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1755257782750462, "dur":2432, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1755257782752894, "dur":1493, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1755257782754387, "dur":7590, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1755257782761984, "dur":161, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/D3D12/D3D12Core.dll" }}
+,{ "pid":12345, "tid":9, "ts":1755257782762146, "dur":149, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1755257782762303, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1755257782762364, "dur":126, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1755257782762549, "dur":8305, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1755257782770927, "dur":284323, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\mscorlib.dll" }}
+,{ "pid":12345, "tid":9, "ts":1755257782770855, "dur":284396, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":9, "ts":1755257783055273, "dur":3167, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":9, "ts":1755257783058500, "dur":106564, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1755257783058443, "dur":106623, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1755257783165091, "dur":2936, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1755257783168093, "dur":51885, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1755257783168031, "dur":51949, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1755257783220006, "dur":1456, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1755257783221518, "dur":100486, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1755257783221467, "dur":100539, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1755257783322032, "dur":1337, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1755257783323439, "dur":60826, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":9, "ts":1755257783323372, "dur":60896, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":9, "ts":1755257783384296, "dur":1125, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":9, "ts":1755257783385424, "dur":9239221, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1755257782746631, "dur":3839, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1755257782750481, "dur":1722, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1755257782752203, "dur":2088, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1755257782754291, "dur":7685, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1755257782761998, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1755257782762140, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1755257782762215, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1755257782762273, "dur":137, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1755257782762410, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1755257782762525, "dur":8330, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1755257782770946, "dur":27450, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1755257782770856, "dur":27541, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1755257782798416, "dur":2493, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1755257782800963, "dur":19938, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":10, "ts":1755257782800911, "dur":19992, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":10, "ts":1755257782820942, "dur":1102, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":10, "ts":1755257782822099, "dur":24093, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ShaderVariantAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1755257782822047, "dur":24147, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.ShaderVariantAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1755257782846223, "dur":1239, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.ShaderVariantAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1755257782847528, "dur":133844, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipelines.GPUDriven.Runtime.dll" }}
+,{ "pid":12345, "tid":10, "ts":1755257782847466, "dur":133908, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.RenderPipelines.GPUDriven.Runtime.dll" }}
+,{ "pid":12345, "tid":10, "ts":1755257782981380, "dur":65, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1755257782981448, "dur":1254, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.RenderPipelines.GPUDriven.Runtime.dll" }}
+,{ "pid":12345, "tid":10, "ts":1755257782982778, "dur":29125, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1755257782982705, "dur":29200, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1755257783011914, "dur":140, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1755257783012060, "dur":1197, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1755257783013323, "dur":27844, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1755257783013260, "dur":27909, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1755257783041224, "dur":1029, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1755257783042306, "dur":56688, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":10, "ts":1755257783042255, "dur":56741, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":10, "ts":1755257783099021, "dur":1902, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":10, "ts":1755257783100971, "dur":132406, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1755257783100927, "dur":132451, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1755257783233411, "dur":1036, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1755257783234512, "dur":30258, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1755257783234449, "dur":30322, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1755257783264794, "dur":1417, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1755257783266260, "dur":78680, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":10, "ts":1755257783266214, "dur":78727, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":10, "ts":1755257783344960, "dur":1397, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":10, "ts":1755257783346359, "dur":9278359, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1755257782746662, "dur":3823, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1755257782750495, "dur":1533, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1755257782752028, "dur":1752, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1755257782753780, "dur":1048, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1755257782754829, "dur":7165, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1755257782762003, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":11, "ts":1755257782762088, "dur":141, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1755257782762235, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":11, "ts":1755257782762329, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1755257782762534, "dur":8342, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1755257782770993, "dur":37979, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1755257782770877, "dur":38096, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1755257782808993, "dur":1722, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1755257782810763, "dur":23562, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1755257782810717, "dur":23610, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1755257782834350, "dur":1030, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1755257782835482, "dur":69355, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1755257782835383, "dur":69456, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1755257782904887, "dur":1055, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1755257782906014, "dur":36157, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.dll" }}
+,{ "pid":12345, "tid":11, "ts":1755257782905946, "dur":36227, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":11, "ts":1755257782942182, "dur":155, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1755257782942343, "dur":1105, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":11, "ts":1755257782943500, "dur":31290, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1755257782943452, "dur":31341, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1755257782975435, "dur":1183, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1755257782976672, "dur":161154, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Rendering.LightTransport.Runtime.dll" }}
+,{ "pid":12345, "tid":11, "ts":1755257782976621, "dur":161206, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.Rendering.LightTransport.Runtime.dll" }}
+,{ "pid":12345, "tid":11, "ts":1755257783137854, "dur":1819, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.Rendering.LightTransport.Runtime.dll" }}
+,{ "pid":12345, "tid":11, "ts":1755257783139723, "dur":91778, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1755257783139677, "dur":91826, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1755257783231531, "dur":1268, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1755257783232860, "dur":159661, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1755257783232803, "dur":159719, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1755257783392535, "dur":1642, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1755257783394179, "dur":9230423, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1755257782746691, "dur":3810, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1755257782750512, "dur":2259, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1755257782752771, "dur":1340, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1755257782754112, "dur":7868, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1755257782761984, "dur":125, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":12, "ts":1755257782762110, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1755257782762194, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1755257782762270, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1755257782762333, "dur":126, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1755257782762521, "dur":8338, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1755257782770949, "dur":75663, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1755257782770889, "dur":75724, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1755257782846674, "dur":1296, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1755257782848026, "dur":47148, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1755257782847972, "dur":47204, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1755257782895237, "dur":1303, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1755257782896591, "dur":55061, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\netstandard.dll" }}
+,{ "pid":12345, "tid":12, "ts":1755257782896543, "dur":55111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":12, "ts":1755257782951660, "dur":101, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1755257782951765, "dur":17441, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":12, "ts":1755257782969261, "dur":146951, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1755257782969208, "dur":147006, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1755257783116233, "dur":2339, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1755257783118652, "dur":138259, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Configuration.dll" }}
+,{ "pid":12345, "tid":12, "ts":1755257783118576, "dur":138337, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":12, "ts":1755257783256938, "dur":1735, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":12, "ts":1755257783258730, "dur":73386, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1755257783258676, "dur":73441, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1755257783332136, "dur":1137, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1755257783333275, "dur":9291287, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1755257782746739, "dur":3774, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1755257782750520, "dur":1295, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1755257782751816, "dur":1837, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1755257782753654, "dur":1364, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1755257782755018, "dur":6980, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1755257782762011, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":13, "ts":1755257782762113, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1755257782762171, "dur":166, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":13, "ts":1755257782762338, "dur":107, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1755257782762452, "dur":123, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1755257782762580, "dur":8291, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1755257782771011, "dur":84110, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1755257782770873, "dur":84250, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1755257782855138, "dur":2195, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1755257782857378, "dur":119190, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1755257782857335, "dur":119235, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1755257782976590, "dur":1805, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1755257782978447, "dur":35825, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1755257782978399, "dur":35875, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1755257783014294, "dur":1067, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1755257783015412, "dur":99532, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1755257783015363, "dur":99582, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1755257783114983, "dur":1751, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1755257783116788, "dur":32356, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1755257783116736, "dur":32410, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1755257783152579, "dur":68, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1755257783149176, "dur":3482, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1755257783152716, "dur":54667, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1755257783152660, "dur":54725, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1755257783207395, "dur":146, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1755257783207547, "dur":1282, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1755257783208886, "dur":77315, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1755257783208833, "dur":77370, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1755257783286223, "dur":1078, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1755257783287349, "dur":74573, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1755257783287304, "dur":74619, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1755257783361938, "dur":1070, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1755257783363010, "dur":9261676, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1755257782746765, "dur":3758, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1755257782750532, "dur":2216, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1755257782752749, "dur":1658, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1755257782754407, "dur":7614, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1755257782762021, "dur":216, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":14, "ts":1755257782762329, "dur":97, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1755257782762531, "dur":8327, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1755257782770934, "dur":27304, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1755257782770859, "dur":27380, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1755257782798380, "dur":2042, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1755257782800470, "dur":29381, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1755257782800423, "dur":29430, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1755257782829876, "dur":1101, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1755257782831061, "dur":24760, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipeline.Universal.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":14, "ts":1755257782830997, "dur":24826, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":14, "ts":1755257782855835, "dur":1296, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":14, "ts":1755257782857176, "dur":26398, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1755257782857133, "dur":26442, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1755257782883582, "dur":489, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1755257782884091, "dur":971, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1755257782885110, "dur":129233, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":14, "ts":1755257782885064, "dur":129280, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":14, "ts":1755257783014357, "dur":1221, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":14, "ts":1755257783015626, "dur":90465, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":14, "ts":1755257783015580, "dur":90512, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":14, "ts":1755257783106108, "dur":1203, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":14, "ts":1755257783107416, "dur":6829, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":14, "ts":1755257783107360, "dur":6888, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":14, "ts":1755257783114274, "dur":1259, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":14, "ts":1755257783115587, "dur":66200, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1755257783115536, "dur":66253, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1755257783181816, "dur":1171, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1755257783183042, "dur":33073, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.MultiplayerModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1755257783182990, "dur":33127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.MultiplayerModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1755257783216143, "dur":1179, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.MultiplayerModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1755257783217372, "dur":171523, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1755257783217326, "dur":171571, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1755257783388913, "dur":892, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1755257783389808, "dur":9234823, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1755257782746799, "dur":3736, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1755257782750544, "dur":1615, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1755257782752160, "dur":1950, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1755257782754148, "dur":7831, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1755257782761983, "dur":239, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":15, "ts":1755257782762271, "dur":153, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":15, "ts":1755257782762425, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1755257782762496, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1755257782762552, "dur":8330, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1755257782770979, "dur":27183, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1755257782770883, "dur":27282, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1755257782798376, "dur":2792, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1755257782801216, "dur":50156, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":15, "ts":1755257782801169, "dur":50205, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":15, "ts":1755257782851399, "dur":1435, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":15, "ts":1755257782852890, "dur":47402, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":15, "ts":1755257782852838, "dur":47455, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":15, "ts":1755257782900317, "dur":1662, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":15, "ts":1755257782902048, "dur":201207, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Data.dll" }}
+,{ "pid":12345, "tid":15, "ts":1755257782901982, "dur":201274, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":15, "ts":1755257783103274, "dur":1978, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":15, "ts":1755257783105300, "dur":34135, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1755257783105255, "dur":34182, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1755257783139459, "dur":1283, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1755257783140799, "dur":59280, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1755257783140746, "dur":59335, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1755257783200103, "dur":974, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1755257783201182, "dur":30658, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1755257783201125, "dur":30717, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1755257783231849, "dur":81, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1755257783231934, "dur":1124, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1755257783233126, "dur":27193, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Collections.LowLevel.ILSupport.dll" }}
+,{ "pid":12345, "tid":15, "ts":1755257783233060, "dur":27261, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll" }}
+,{ "pid":12345, "tid":15, "ts":1755257783260362, "dur":1113, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll" }}
+,{ "pid":12345, "tid":15, "ts":1755257783261530, "dur":38935, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1755257783261478, "dur":38989, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1755257783300492, "dur":1098, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1755257783301639, "dur":59978, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1755257783301593, "dur":60026, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1755257783361644, "dur":1289, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1755257783362935, "dur":9261765, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1755257782746832, "dur":3715, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1755257782750548, "dur":2188, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1755257782752737, "dur":2079, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1755257782754816, "dur":7171, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1755257782761988, "dur":119, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":16, "ts":1755257782762108, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1755257782762185, "dur":166, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":16, "ts":1755257782762406, "dur":97, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1755257782762510, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1755257782762572, "dur":8324, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1755257782770960, "dur":87667, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":16, "ts":1755257782770896, "dur":87732, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":16, "ts":1755257782858644, "dur":2015, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":16, "ts":1755257782860710, "dur":48320, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AMDModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1755257782860662, "dur":48370, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.AMDModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1755257782909061, "dur":970, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.AMDModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1755257782910080, "dur":40823, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1755257782910034, "dur":40870, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1755257782950942, "dur":978, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1755257782951967, "dur":41402, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":16, "ts":1755257782951923, "dur":41448, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":16, "ts":1755257782993390, "dur":1371, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":16, "ts":1755257782994855, "dur":280703, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Xml.dll" }}
+,{ "pid":12345, "tid":16, "ts":1755257782994764, "dur":280796, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":16, "ts":1755257783275585, "dur":2860, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":16, "ts":1755257783278499, "dur":144137, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":16, "ts":1755257783278448, "dur":144189, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":16, "ts":1755257783422673, "dur":998, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/OVERLORD/Downloads/APK/NovaProject_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":16, "ts":1755257783423673, "dur":9200896, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1755257792630491, "dur":1212, "ph":"X", "name": "ProfilerWriteOutput" }
+,
