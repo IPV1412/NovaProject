@@ -6,6 +6,7 @@ public class WeaponUpgrade : MonoBehaviour
 {
     private WeaponsManager weaponManager;
     private WeaponController weapon;
+    private Bullet bullet;
     
     public enum UpgradeOptions { Default, FireRate, Ammo, ClipSize, Damage }
     public UpgradeOptions currentState;
@@ -28,6 +29,9 @@ public class WeaponUpgrade : MonoBehaviour
             
             weapon = weaponManager.GetWeapon();
             if (weapon == null) return;
+            
+            bullet = weapon.BulletPrefab.GetComponent<Bullet>();
+            if (bullet == null) return;
             
             StoreOriginalValues();
             currentState = (UpgradeOptions)Random.Range(1, 5);
@@ -87,15 +91,19 @@ public class WeaponUpgrade : MonoBehaviour
         {
             case UpgradeOptions.FireRate:
                 weapon.DelayBetweenShots = Mathf.Max(0.1f, weapon.DelayBetweenShots * 0.7f);
+                Debug.Log("Fire Rate Upgrade");
                 break;
             case UpgradeOptions.Ammo:
                 weapon.MaxAmmo = Mathf.Min(999, weapon.MaxAmmo + 20);
+                Debug.Log("Ammo Upgrade");
                 break;
             case UpgradeOptions.ClipSize:
-                weapon.BulletsPerShot = Mathf.Min(10, weapon.BulletsPerShot + 1);
+                weapon.BulletsPerShot = Mathf.Min(10, weapon.BulletsPerShot + 0);
+                Debug.Log("ClipSize Upgrade");
                 break;
             case UpgradeOptions.Damage:
-                // Agregar daño para despues
+                bullet.damage = Mathf.Min(100, bullet.damage + 25);
+                Debug.Log("Damage Upgrade");
                 break;
             default:
                 weapon.MaxAmmo = 30;
@@ -103,6 +111,7 @@ public class WeaponUpgrade : MonoBehaviour
                 weapon.DelayBetweenShots = 0.5f;
                 weapon.BulletsPerShot = 1;
                 weapon.AmmoReloadDelay = 1f;
+                bullet.damage = 25f;
                 break;
         }
     }

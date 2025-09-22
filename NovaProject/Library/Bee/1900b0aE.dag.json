@@ -795,7 +795,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 107,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -829,7 +829,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 50400,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -4896,7 +4896,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 60708,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -4930,7 +4930,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 104120,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -6280,7 +6280,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 115234,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -6314,7 +6314,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 177686,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -7824,7 +7824,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 188413,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -7858,7 +7858,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 229183,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -9002,7 +9002,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 240723,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -9036,7 +9036,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 279476,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -10103,7 +10103,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 291097,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -10137,7 +10137,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 328069,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -11145,7 +11145,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 339329,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -11179,7 +11179,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 378442,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -12263,7 +12263,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 389144,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -12297,7 +12297,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 463532,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -14083,7 +14083,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 474796,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -14117,7 +14117,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 518423,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -15293,7 +15293,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 529701,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -15327,7 +15327,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 566668,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -16333,7 +16333,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 577953,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -16367,7 +16367,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 616626,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -17390,7 +17390,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 627181,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -17424,7 +17424,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 695105,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -19108,7 +19108,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 706182,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -19142,7 +19142,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 742803,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -20138,7 +20138,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 754125,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -20172,7 +20172,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 790806,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -21168,7 +21168,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 802127,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -21202,7 +21202,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 838731,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -22198,7 +22198,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 850037,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -22232,7 +22232,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 888098,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -23260,7 +23260,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 899712,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -23294,7 +23294,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 939887,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -24357,7 +24357,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 950853,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -24391,7 +24391,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 989417,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -25435,7 +25435,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1001024,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -25469,7 +25469,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1039186,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -26501,7 +26501,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1050789,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -26535,7 +26535,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1091587,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -27651,7 +27651,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1102848,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -27685,7 +27685,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1145065,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -28825,7 +28825,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1156334,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -28859,7 +28859,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1196771,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -29932,7 +29932,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1207749,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -29966,7 +29966,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1246514,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -31072,7 +31072,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1258304,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -31106,7 +31106,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1295747,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -32243,7 +32243,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1306868,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -32277,7 +32277,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1346081,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -33345,7 +33345,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1357755,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -33379,7 +33379,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1395723,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -34436,7 +34436,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1407408,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -34470,7 +34470,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1449982,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -35641,7 +35641,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1461404,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -35675,7 +35675,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1498210,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -36706,7 +36706,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1509573,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -36740,7 +36740,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1545456,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -37713,7 +37713,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1556182,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -37747,7 +37747,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1594446,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -38785,7 +38785,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1606139,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -38819,7 +38819,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1648114,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -39954,7 +39954,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1659828,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -39988,7 +39988,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1697570,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -41020,7 +41020,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1708635,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -41054,7 +41054,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1768914,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -42653,7 +42653,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1780596,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -42687,7 +42687,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1868349,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -44545,7 +44545,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1879711,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -44579,7 +44579,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1918224,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -45656,7 +45656,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1930109,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -45690,7 +45690,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1967317,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -46703,7 +46703,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1978215,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -46737,7 +46737,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2016314,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -47771,7 +47771,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2028010,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -47805,7 +47805,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2089645,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -49319,7 +49319,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2101257,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -49353,7 +49353,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2141991,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -50435,7 +50435,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2153523,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -50469,7 +50469,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2245106,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -52464,7 +52464,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2256812,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -52498,7 +52498,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2340081,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -54308,7 +54308,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2351548,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -54342,7 +54342,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2388456,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -55373,7 +55373,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2399867,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -55407,7 +55407,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2436587,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -56409,7 +56409,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2447993,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -56443,7 +56443,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2488819,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -57539,7 +57539,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2500461,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -57573,7 +57573,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2537204,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -58575,7 +58575,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2548600,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -58609,7 +58609,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2591017,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -59780,7 +59780,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2602808,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -59814,7 +59814,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2660208,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -61250,7 +61250,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2672177,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -61284,7 +61284,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2711849,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -62352,7 +62352,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2723315,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -62386,7 +62386,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2780034,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -63872,7 +63872,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2792193,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -63906,7 +63906,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2846396,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -65357,7 +65357,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2858376,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -65391,7 +65391,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2897806,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -66515,7 +66515,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2909899,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -66549,7 +66549,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2955728,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -67739,7 +67739,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2967816,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -67773,7 +67773,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 3005897,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -68830,7 +68830,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 3017633,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -68864,7 +68864,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 3060313,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -70023,7 +70023,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 3072064,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -70057,7 +70057,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 3174290,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -72539,7 +72539,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 3186271,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -72573,7 +72573,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 3224716,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -73660,7 +73660,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 3236899,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -73694,7 +73694,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 3301152,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -75373,7 +75373,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 3313720,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -75407,7 +75407,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 3353290,
       "PayloadLength": 46,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\NovaProjec",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Github\\NovaProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -76504,7 +76504,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 3365273,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -78179,7 +78179,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 3420368,
       "PayloadLength": 33,
-      "PayloadDebugContentSnippet": "C:\\Github\\NovaProject\\NovaProj",
+      "PayloadDebugContentSnippet": "D:\\Github\\NovaProject\\NovaProj",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -79520,7 +79520,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 3477742,
       "PayloadLength": 49120,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -80361,7 +80361,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 3526952,
       "PayloadLength": 33982,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -82439,7 +82439,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 3561024,
       "PayloadLength": 35326,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -84783,7 +84783,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 3596440,
       "PayloadLength": 35353,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -87130,7 +87130,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 3631883,
       "PayloadLength": 34006,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -89477,7 +89477,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 3665978,
       "PayloadLength": 32885,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -91825,7 +91825,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 3698953,
       "PayloadLength": 34466,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -94172,7 +94172,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 3733508,
       "PayloadLength": 33979,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -96518,7 +96518,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 3767577,
       "PayloadLength": 33993,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -98865,7 +98865,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 3801660,
       "PayloadLength": 32769,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -101212,7 +101212,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 3834518,
       "PayloadLength": 34348,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -103559,7 +103559,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 3868955,
       "PayloadLength": 34002,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -105906,7 +105906,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 3903047,
       "PayloadLength": 34014,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -108253,7 +108253,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 3937150,
       "PayloadLength": 34001,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -110600,7 +110600,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 3971240,
       "PayloadLength": 35347,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -112947,7 +112947,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 4006677,
       "PayloadLength": 35331,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -115294,7 +115294,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 4042097,
       "PayloadLength": 35337,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -117641,7 +117641,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 4077523,
       "PayloadLength": 34009,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -119988,7 +119988,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 4111621,
       "PayloadLength": 34001,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -122335,7 +122335,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 4145712,
       "PayloadLength": 35482,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -124688,7 +124688,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 4181284,
       "PayloadLength": 35381,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -127039,7 +127039,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 4216754,
       "PayloadLength": 35399,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -129389,7 +129389,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 4252242,
       "PayloadLength": 34149,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -131741,7 +131741,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 4286480,
       "PayloadLength": 34044,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -134091,7 +134091,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 4320614,
       "PayloadLength": 32899,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -136441,7 +136441,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 4353603,
       "PayloadLength": 35393,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -138790,7 +138790,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 4389086,
       "PayloadLength": 35414,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -141140,7 +141140,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 4424590,
       "PayloadLength": 34281,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -143490,7 +143490,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 4458960,
       "PayloadLength": 35412,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -145840,7 +145840,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 4494462,
       "PayloadLength": 34199,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -148190,7 +148190,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 4528750,
       "PayloadLength": 35551,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -150546,7 +150546,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 4564390,
       "PayloadLength": 35422,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -152901,7 +152901,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 4599901,
       "PayloadLength": 34294,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -155259,7 +155259,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 4634285,
       "PayloadLength": 34171,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -157614,7 +157614,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 4668545,
       "PayloadLength": 35411,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -159967,7 +159967,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 4704045,
       "PayloadLength": 34363,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -162320,7 +162320,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 4738498,
       "PayloadLength": 34082,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -164681,7 +164681,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 4772670,
       "PayloadLength": 34079,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -167042,7 +167042,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 4806839,
       "PayloadLength": 34248,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -169403,7 +169403,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 4841177,
       "PayloadLength": 34084,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -171764,7 +171764,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 4875351,
       "PayloadLength": 35469,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -174128,7 +174128,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 4910910,
       "PayloadLength": 35688,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -176487,7 +176487,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 4946687,
       "PayloadLength": 34125,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -178843,7 +178843,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 4980901,
       "PayloadLength": 35763,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -181210,7 +181210,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 5016754,
       "PayloadLength": 34675,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -183583,7 +183583,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 5051518,
       "PayloadLength": 35710,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -185948,7 +185948,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 5087317,
       "PayloadLength": 35699,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -188313,7 +188313,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 5123106,
       "PayloadLength": 35425,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -190683,7 +190683,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 5158620,
       "PayloadLength": 34377,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -193059,7 +193059,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 5193086,
       "PayloadLength": 35617,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -195435,7 +195435,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 5228792,
       "PayloadLength": 35776,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -197803,7 +197803,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 5264658,
       "PayloadLength": 36121,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -200206,7 +200206,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 5300868,
       "PayloadLength": 35639,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -202612,7 +202612,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 5336597,
       "PayloadLength": 36365,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -205104,7 +205104,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 5373051,
       "PayloadLength": 38756,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-662bfb99ea0caf4cdd",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-149e42432376913912",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -210116,7 +210116,7 @@
     {
       "Annotation": "BuildPlayerDataGenerator Library/BuildPlayerData/Editor/TypeDb-All.json",
       "DisplayName": "Extracting script serialization layouts",
-      "Action": "\"C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"C:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Assembly-CSharp.dll\" -a=\"C:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.AI.Navigation.dll\" -a=\"C:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.Burst.dll\" -a=\"C:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.Collections.dll\" -a=\"C:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.InputSystem.dll\" -a=\"C:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.InputSystem.ForUI.dll\" -a=\"C:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.InputSystem.TestFramework.dll\" -a=\"C:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.Mathematics.dll\" -a=\"C:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.Multiplayer.Center.Common.dll\" -a=\"C:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.PerformanceTesting.dll\" -a=\"C:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.Rendering.LightTransport.Runtime.dll\" -a=\"C:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.RenderPipeline.Universal.ShaderLibrary.dll\" -a=\"C:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.RenderPipelines.Core.Runtime.dll\" -a=\"C:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.RenderPipelines.Core.Runtime.Shared.dll\" -a=\"C:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.RenderPipelines.Core.ShaderLibrary.dll\" -a=\"C:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.RenderPipelines.GPUDriven.Runtime.dll\" -a=\"C:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll\" -a=\"C:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.RenderPipelines.Universal.2D.Runtime.dll\" -a=\"C:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.RenderPipelines.Universal.Config.Runtime.dll\" -a=\"C:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.RenderPipelines.Universal.Runtime.dll\" -a=\"C:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.RenderPipelines.Universal.Shaders.dll\" -a=\"C:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"C:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"C:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"C:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"C:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"C:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"C:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"C:\\Github\\NovaProject\\NovaProject\\Library\\PackageCache\\com.unity.burst\\Unity.Burst.CodeGen\\Unity.Burst.Cecil.dll\" -a=\"C:\\Github\\NovaProject\\NovaProject\\Library\\PackageCache\\com.unity.burst\\Unity.Burst.CodeGen\\Unity.Burst.Cecil.Mdb.dll\" -a=\"C:\\Github\\NovaProject\\NovaProject\\Library\\PackageCache\\com.unity.burst\\Unity.Burst.CodeGen\\Unity.Burst.Cecil.Pdb.dll\" -a=\"C:\\Github\\NovaProject\\NovaProject\\Library\\PackageCache\\com.unity.burst\\Unity.Burst.CodeGen\\Unity.Burst.Cecil.Rocks.dll\" -a=\"C:\\Github\\NovaProject\\NovaProject\\Library\\PackageCache\\com.unity.burst\\Unity.Burst.Unsafe.dll\" -a=\"C:\\Github\\NovaProject\\NovaProject\\Library\\PackageCache\\com.unity.collections\\Unity.Collections.LowLevel.ILSupport\\Unity.Collections.LowLevel.ILSupport.dll\" -a=\"C:\\Github\\NovaProject\\NovaProject\\Library\\PackageCache\\com.unity.ext.nunit\\net40\\unity-custom\\nunit.framework.dll\" -a=\"C:\\Github\\NovaProject\\NovaProject\\Library\\PackageCache\\com.unity.nuget.mono-cecil\\Mono.Cecil.dll\" -a=\"C:\\Github\\NovaProject\\NovaProject\\Library\\PackageCache\\com.unity.nuget.mono-cecil\\Mono.Cecil.Mdb.dll\" -a=\"C:\\Github\\NovaProject\\NovaProject\\Library\\PackageCache\\com.unity.nuget.mono-cecil\\Mono.Cecil.Pdb.dll\" -a=\"C:\\Github\\NovaProject\\NovaProject\\Library\\PackageCache\\com.unity.nuget.mono-cecil\\Mono.Cecil.Rocks.dll\" -a=\"C:\\Github\\NovaProject\\NovaProject\\Library\\PackageCache\\com.unity.visualscripting\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.28f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.28f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.28f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.28f1\\Editor\\Data\\NetStandard\\EditorExtensions\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.28f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.28f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"C:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\" -s=\"C:\\Github\\NovaProject\\NovaProject\\Library\\PackageCache\\com.unity.burst\" -s=\"C:\\Github\\NovaProject\\NovaProject\\Library\\PackageCache\\com.unity.burst\\Unity.Burst.CodeGen\" -s=\"C:\\Github\\NovaProject\\NovaProject\\Library\\PackageCache\\com.unity.collections\\Unity.Collections.LowLevel.ILSupport\" -s=\"C:\\Github\\NovaProject\\NovaProject\\Library\\PackageCache\\com.unity.ext.nunit\\net40\\unity-custom\" -s=\"C:\\Github\\NovaProject\\NovaProject\\Library\\PackageCache\\com.unity.nuget.mono-cecil\" -s=\"C:\\Github\\NovaProject\\NovaProject\\Library\\PackageCache\\com.unity.visualscripting\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
+      "Action": "\"C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"D:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Assembly-CSharp.dll\" -a=\"D:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.AI.Navigation.dll\" -a=\"D:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.Burst.dll\" -a=\"D:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.Collections.dll\" -a=\"D:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.InputSystem.dll\" -a=\"D:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.InputSystem.ForUI.dll\" -a=\"D:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.InputSystem.TestFramework.dll\" -a=\"D:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.Mathematics.dll\" -a=\"D:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.Multiplayer.Center.Common.dll\" -a=\"D:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.PerformanceTesting.dll\" -a=\"D:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.Rendering.LightTransport.Runtime.dll\" -a=\"D:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.RenderPipeline.Universal.ShaderLibrary.dll\" -a=\"D:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.RenderPipelines.Core.Runtime.dll\" -a=\"D:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.RenderPipelines.Core.Runtime.Shared.dll\" -a=\"D:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.RenderPipelines.Core.ShaderLibrary.dll\" -a=\"D:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.RenderPipelines.GPUDriven.Runtime.dll\" -a=\"D:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll\" -a=\"D:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.RenderPipelines.Universal.2D.Runtime.dll\" -a=\"D:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.RenderPipelines.Universal.Config.Runtime.dll\" -a=\"D:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.RenderPipelines.Universal.Runtime.dll\" -a=\"D:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.RenderPipelines.Universal.Shaders.dll\" -a=\"D:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"D:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"D:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"D:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"D:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"D:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"D:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"D:\\Github\\NovaProject\\NovaProject\\Library\\PackageCache\\com.unity.burst\\Unity.Burst.CodeGen\\Unity.Burst.Cecil.dll\" -a=\"D:\\Github\\NovaProject\\NovaProject\\Library\\PackageCache\\com.unity.burst\\Unity.Burst.CodeGen\\Unity.Burst.Cecil.Mdb.dll\" -a=\"D:\\Github\\NovaProject\\NovaProject\\Library\\PackageCache\\com.unity.burst\\Unity.Burst.CodeGen\\Unity.Burst.Cecil.Pdb.dll\" -a=\"D:\\Github\\NovaProject\\NovaProject\\Library\\PackageCache\\com.unity.burst\\Unity.Burst.CodeGen\\Unity.Burst.Cecil.Rocks.dll\" -a=\"D:\\Github\\NovaProject\\NovaProject\\Library\\PackageCache\\com.unity.burst\\Unity.Burst.Unsafe.dll\" -a=\"D:\\Github\\NovaProject\\NovaProject\\Library\\PackageCache\\com.unity.collections\\Unity.Collections.LowLevel.ILSupport\\Unity.Collections.LowLevel.ILSupport.dll\" -a=\"D:\\Github\\NovaProject\\NovaProject\\Library\\PackageCache\\com.unity.ext.nunit\\net40\\unity-custom\\nunit.framework.dll\" -a=\"D:\\Github\\NovaProject\\NovaProject\\Library\\PackageCache\\com.unity.nuget.mono-cecil\\Mono.Cecil.dll\" -a=\"D:\\Github\\NovaProject\\NovaProject\\Library\\PackageCache\\com.unity.nuget.mono-cecil\\Mono.Cecil.Mdb.dll\" -a=\"D:\\Github\\NovaProject\\NovaProject\\Library\\PackageCache\\com.unity.nuget.mono-cecil\\Mono.Cecil.Pdb.dll\" -a=\"D:\\Github\\NovaProject\\NovaProject\\Library\\PackageCache\\com.unity.nuget.mono-cecil\\Mono.Cecil.Rocks.dll\" -a=\"D:\\Github\\NovaProject\\NovaProject\\Library\\PackageCache\\com.unity.visualscripting\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.28f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.28f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.28f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.28f1\\Editor\\Data\\NetStandard\\EditorExtensions\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.28f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.28f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"D:\\Github\\NovaProject\\NovaProject\\Library\\ScriptAssemblies\" -s=\"D:\\Github\\NovaProject\\NovaProject\\Library\\PackageCache\\com.unity.burst\" -s=\"D:\\Github\\NovaProject\\NovaProject\\Library\\PackageCache\\com.unity.burst\\Unity.Burst.CodeGen\" -s=\"D:\\Github\\NovaProject\\NovaProject\\Library\\PackageCache\\com.unity.collections\\Unity.Collections.LowLevel.ILSupport\" -s=\"D:\\Github\\NovaProject\\NovaProject\\Library\\PackageCache\\com.unity.ext.nunit\\net40\\unity-custom\" -s=\"D:\\Github\\NovaProject\\NovaProject\\Library\\PackageCache\\com.unity.nuget.mono-cecil\" -s=\"D:\\Github\\NovaProject\\NovaProject\\Library\\PackageCache\\com.unity.visualscripting\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
       "Inputs": [
         "C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/Tools/netcorerun/netcorerun.exe",
         "C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe",
@@ -210631,6 +210631,6 @@
   "SharedResources": [],
   "Scanners": [],
   "Identifier": "Library/Bee/1900b0aE.dag.json",
-  "PayloadsFile": "C:/Github/NovaProject/NovaProject/Library/Bee/1900b0aE.dag.payloads",
+  "PayloadsFile": "D:/Github/NovaProject/NovaProject/Library/Bee/1900b0aE.dag.payloads",
   "RelativePathToRoot": "../.."
 }
