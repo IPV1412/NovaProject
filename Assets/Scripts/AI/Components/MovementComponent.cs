@@ -21,7 +21,7 @@ public class MovementComponent : MonoBehaviour
         agent.SetDestination(transform.position);
     }
 
-    public bool RachedDestination(float tolerance = 0.5f)
+    public bool ReachedDestination(float tolerance = 0.5f)
     {
         return !agent.pathPending && agent.remainingDistance <= tolerance;
     }

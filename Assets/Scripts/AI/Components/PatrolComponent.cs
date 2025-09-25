@@ -21,7 +21,7 @@ public class PatrolComponent : MonoBehaviour
 
     public void Patrol()
     {
-        if (movement.RachedDestination())
+        if (movement.ReachedDestination())
             GoToNextPatrolPoint();
     }
 
