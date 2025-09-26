@@ -18568,6 +18568,10 @@ PrefabInstance:
       propertyPath: m_AnchorMax.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6223726577015445338, guid: 5fe5470bdca13164e95eec91bd6d66d3, type: 3}
+      propertyPath: barPrefab
+      value: 
+      objectReference: {fileID: 6643437360097746137, guid: 0ec706603b26ddc44a47dca5dd73efc2, type: 3}
     - target: {fileID: 8142572379852083204, guid: 5fe5470bdca13164e95eec91bd6d66d3, type: 3}
       propertyPath: m_Name
       value: enemy-ufo-a-weapon
@@ -18615,7 +18619,10 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 8142572379852083204, guid: 5fe5470bdca13164e95eec91bd6d66d3, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1855494104}
   m_SourcePrefab: {fileID: 100100000, guid: 5fe5470bdca13164e95eec91bd6d66d3, type: 3}
 --- !u!1 &1851708021
 GameObject:
@@ -18725,6 +18732,24 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1851708021}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &1855494096 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8142572379852083204, guid: 5fe5470bdca13164e95eec91bd6d66d3, type: 3}
+  m_PrefabInstance: {fileID: 1835132376}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1855494104
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1855494096}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b58b89a9e1b19445b843877d002f3c3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentState: 0
 --- !u!4 &1856036911 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ccf67e508d285aa4ebffff47906dbcbd, type: 3}

@@ -598,6 +598,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: b43dddc3872f62140a134e8c5bc59c40, type: 3}
       insertIndex: -1
       addedObject: {fileID: 6053823466665659501}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: b43dddc3872f62140a134e8c5bc59c40, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 816450416740483285}
   m_SourcePrefab: {fileID: 100100000, guid: b43dddc3872f62140a134e8c5bc59c40, type: 3}
 --- !u!4 &4976051318911392241 stripped
 Transform:
@@ -641,7 +644,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 903418cd0bd64bf4b8d4db9e3dccb6b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  barPrefab: {fileID: 6643437360097746137, guid: 0ec706603b26ddc44a47dca5dd73efc2, type: 3}
   MaxHealth: 150
   CriticalHealthRatio: 0.3
 --- !u!114 &1699354434104404742
@@ -656,6 +658,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aea844203b9f8984f822278330519f22, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  barPrefab: {fileID: 6643437360097746137, guid: 0ec706603b26ddc44a47dca5dd73efc2, type: 3}
 --- !u!65 &9026642050507191459
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -693,6 +696,19 @@ MonoBehaviour:
   healthSlider: {fileID: 8911810952571497586}
   sliderPivot: {fileID: 1996460696151362003}
   hideWhenFull: 1
+--- !u!114 &816450416740483285
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5640104203425907531}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b58b89a9e1b19445b843877d002f3c3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentState: 0
 --- !u!4 &6410886237091783605 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -7314745045437555281, guid: b43dddc3872f62140a134e8c5bc59c40, type: 3}
