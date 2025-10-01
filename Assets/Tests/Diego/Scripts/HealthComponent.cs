@@ -42,7 +42,7 @@ public class HealthComponent : MonoBehaviour
         currentHealth -= amount;
         currentHealth = Mathf.Clamp(currentHealth, 0, maxHealth);
 
-        Debug.Log("Vida sube a : " + currentHealth);
+        Debug.Log("Vida baja a : " + currentHealth);
     }
 
     public void SubtractShield(int amount)
@@ -50,7 +50,7 @@ public class HealthComponent : MonoBehaviour
         currentShield -= amount;
         currentShield = Mathf.Clamp(currentShield, 0, maxShield);
 
-        Debug.Log("Escudo sube a : " + currentShield);
+        Debug.Log("Escudo baja a : " + currentShield);
 
     }
     public void AddHealth(int amount)
@@ -59,5 +59,13 @@ public class HealthComponent : MonoBehaviour
         currentHealth = Mathf.Clamp(currentHealth, 0, maxHealth);
 
         Debug.Log("Vida sube a : " + currentShield);
+    }
+
+    public void AddShield(int amount)
+    {
+        currentShield += amount;
+        currentShield = Mathf.Clamp(currentShield, 0, maxShield);
+
+        Debug.Log("Escudo baja a : " + currentShield);
     }
 }
