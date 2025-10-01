@@ -102,7 +102,7 @@ public class WeaponUpgrade : MonoBehaviour
                 Debug.Log("ClipSize Upgrade");
                 break;
             case UpgradeOptions.Damage:
-                bullet.damage = Mathf.Min(100, bullet.damage + 25);
+                bullet.damage = Mathf.Min(100, bullet.damage + 50);
                 Debug.Log("Damage Upgrade");
                 break;
             default:

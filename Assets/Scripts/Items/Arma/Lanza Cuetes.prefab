@@ -25,7 +25,7 @@ Transform:
   m_GameObject: {fileID: 7536335605783860084}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
-  m_LocalPosition: {x: 0, y: 0.01, z: -0.25}
+  m_LocalPosition: {x: 0, y: 0.046, z: -0.433}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -79,13 +79,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -5754084199372789682, guid: 0424629810567704cb4c1e27f6128fc8, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 5408837539718752999, guid: 8d6b6ed0843ece0478e2a3ebefc2326e, type: 3}
     - target: {fileID: 919132149155446097, guid: 0424629810567704cb4c1e27f6128fc8, type: 3}
       propertyPath: m_Icon
       value: 
       objectReference: {fileID: 5132851093641282708, guid: 0000000000000000d000000000000000, type: 0}
     - target: {fileID: 919132149155446097, guid: 0424629810567704cb4c1e27f6128fc8, type: 3}
       propertyPath: m_Name
-      value: Weapon
+      value: Lanza Cuetes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -222,16 +226,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   WeaponRoot: {fileID: 7830532093506280862}
   WeaponMuzzle: {fileID: 8806910688854900593}
-  BulletPrefab: {fileID: 3391304839521513170, guid: b0803fe74ff0dc44f927fe061d07b899, type: 3}
-  DelayBetweenShots: 0.4
+  BulletPrefab: {fileID: 3391304839521513170, guid: 3ce0079442013f64a9639b8851c15448, type: 3}
+  DelayBetweenShots: 0.8
   BulletSpreadAngle: 0
   BulletsPerShot: 1
   RecoilForce: 1
   AimZoomRatio: 0.5
   AimOffset: {x: 0, y: 0, z: 0}
-  MaxAmmo: 30
+  MaxAmmo: 15
   AmmoReloadRate: 10
-  AmmoReloadDelay: 1
+  AmmoReloadDelay: 1.5
   AutomaticReload: 1
   MuzzleFlashPrefab: {fileID: 8866935240806279683, guid: c9bcb6601d206e54795502f3efc0779b, type: 3}
   ShootSfx: {fileID: 0}

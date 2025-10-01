@@ -22,7 +22,7 @@ public class TurretDeathHandler : MonoBehaviour
     
     void SpawnUpgrade()
     {
-        Vector3 spawnPosition = new Vector3(transform.position.x, transform.position.y + 0.2f , transform.position.z);
+        Vector3 spawnPosition = new Vector3(transform.position.x, transform.position.y + 0.1f , transform.position.z);
         barInstance = Instantiate(barPrefab, spawnPosition, transform.rotation);
     }
 }
