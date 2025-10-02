@@ -51,6 +51,13 @@ public class Health : MonoBehaviour
         HandleDeath();
     }
 
+    public void SubtractHealth(int amount)
+    {
+        CurrentHealth -= amount;
+        CurrentHealth = Mathf.Clamp(CurrentHealth, 0f, MaxHealth);
+        HandleDeath();
+    }
+
     public void Kill()
     {
         CurrentHealth = 0f;

@@ -4,16 +4,20 @@ using UnityEngine.UI;
 public class HealthComponent : MonoBehaviour
 {
 
-    public int maxHealth = 100;
-    public int currentHealth;
+    [HideInInspector] public int maxHealth = 100;
+    [HideInInspector] public int currentHealth;
     private int healthDamage = 10;
 
-    public int maxShield = 100;
-    public int currentShield;
+    [HideInInspector] public int maxShield = 100;
+    [HideInInspector] public int currentShield;
     private int shieldDamage = 5;
 
     public Slider healthBar;
     public Slider ShieldBar;
+
+    [Header("Daño por colisión")]
+    [SerializeField] private string damageTag; 
+    [SerializeField] private int collisionDamage = 10;
 
     void Start()
     {
@@ -25,23 +29,11 @@ public class HealthComponent : MonoBehaviour
     {
         healthBar.value = currentHealth;
         ShieldBar.value = currentShield;
-        if (Input.GetMouseButtonDown(0))
-        {
-            if (currentShield > 0)
-            {
-                SubtractShield(shieldDamage);
-            }
-            else
-            {
-                TakeDamage(healthDamage);
-            }
-        }
     }
     public void TakeDamage(int amount)
     {
         currentHealth -= amount;
         currentHealth = Mathf.Clamp(currentHealth, 0, maxHealth);
-
         Debug.Log("Vida baja a : " + currentHealth);
     }
 
@@ -51,7 +43,6 @@ public class HealthComponent : MonoBehaviour
         currentShield = Mathf.Clamp(currentShield, 0, maxShield);
 
         Debug.Log("Escudo baja a : " + currentShield);
-
     }
     public void AddHealth(int amount)
     {
@@ -67,5 +58,30 @@ public class HealthComponent : MonoBehaviour
         currentShield = Mathf.Clamp(currentShield, 0, maxShield);
 
         Debug.Log("Escudo baja a : " + currentShield);
+    }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.CompareTag(damageTag))
+        {
+            Debug.Log("Colisión con: " + other.name);
+
+            if (currentShield > 0)
+                SubtractShield(collisionDamage);
+            else
+                TakeDamage(collisionDamage);
+        }
+    }
+    public bool ChechIfDead()
+    {
+        if(currentHealth == 0)
+        {
+            return true;
+        }
+        return false;
+    }
+    public void Dead()
+    {
+        Destroy(this);
     }
 }

@@ -10,12 +10,11 @@ public class AttackComponent : MonoBehaviour
     {
         transform.LookAt(target);
 
+
         if (Time.time > lastAttackTime + attackCooldown)
         {
             Debug.Log("Golpe");
             lastAttackTime= Time.time;
         }
     }
-
-
 }

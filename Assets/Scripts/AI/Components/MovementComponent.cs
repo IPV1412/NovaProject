@@ -1,10 +1,11 @@
-using System;
 using UnityEngine;
 using UnityEngine.AI;
 
 public class MovementComponent : MonoBehaviour
 {
     public NavMeshAgent agent;
+    public float targetOffset = 1f;
+    public float smoothSpeed = 2f;
 
     private void Awake()
     {
@@ -13,7 +14,9 @@ public class MovementComponent : MonoBehaviour
 
     public void MoveTo(Vector3 target)
     {
-        agent.SetDestination(target);
+        Vector3 direction = (target - transform.position).normalized;
+        Vector3 stopPosition = target - direction * targetOffset;
+        agent.SetDestination(stopPosition);
     }
 
     public void Stop()

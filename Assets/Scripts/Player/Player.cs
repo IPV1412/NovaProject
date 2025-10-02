@@ -71,6 +71,9 @@ public class Player : MonoBehaviour
     const float k_JumpGroundingPreventionTime = 0.2f;
     const float k_GroundCheckDistanceInAir = 0.07f;
 
+    private float damageCooldown = 1f;
+    private float nextDamageTime = 0f;
+
     void Start()
     {
         Cursor.lockState = CursorLockMode.Locked;
@@ -275,6 +278,22 @@ public class Player : MonoBehaviour
             m_Controller.center = Vector3.up * m_Controller.height * 0.5f;
             PlayerCamera.transform.localPosition = Vector3.Lerp(PlayerCamera.transform.localPosition,
                 Vector3.up * m_TargetCharacterHeight * CameraHeightRatio, CrouchingSharpness * Time.deltaTime);
+        }
+    }
+
+    private void OnTriggerStay(Collider other)
+    {
+        if (other.CompareTag("Enemy"))
+        {
+            if (Time.time >= nextDamageTime)
+            {
+                if(m_Health.CurrentHealth > 0)
+                {
+                    m_Health.SubtractHealth(10);
+                    Debug.Log("Vida del jugador: " + m_Health.CurrentHealth);
+                }
+                nextDamageTime = Time.time + damageCooldown;
+            }
         }
     }
 }
