@@ -564,7 +564,7 @@ GameObject:
   - component: {fileID: 3852029298313848743}
   m_Layer: 0
   m_Name: KamikazeEnemy
-  m_TagString: Shield
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

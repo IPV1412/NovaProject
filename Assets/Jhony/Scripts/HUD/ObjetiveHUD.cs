@@ -1,6 +1,5 @@
 using UnityEngine;
 using UnityEngine.UI;
-using System.Linq;
 using TMPro;
 
 public class ObjectiveUI : MonoBehaviour
@@ -11,7 +10,7 @@ public class ObjectiveUI : MonoBehaviour
 
     [Header("Settings")]
     public string enemyTag = "Enemy";     
-    public string missionName = "Derrota a todas las torretas";
+    public string missionName = "Derrota a todos los enemigos";
 
     [Header("References")]
     public SceneNavigation navigation;         
@@ -22,8 +21,7 @@ public class ObjectiveUI : MonoBehaviour
 
     void Start()
     {
-        totalEnemies = FindObjectsByType<TurretAI>(FindObjectsSortMode.None)
-            .Count(t => t.CompareTag(enemyTag));
+        totalEnemies = GameObject.FindGameObjectsWithTag(enemyTag).Length;
         currentEnemies = totalEnemies;
 
         UpdateObjectiveText();
@@ -31,8 +29,7 @@ public class ObjectiveUI : MonoBehaviour
 
     void Update()
     {
-        currentEnemies = FindObjectsByType<TurretAI>(FindObjectsSortMode.None)
-            .Count(t => t.CompareTag(enemyTag));
+        currentEnemies = GameObject.FindGameObjectsWithTag(enemyTag).Length;
 
         UpdateObjectiveText();
 

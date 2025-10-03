@@ -13,11 +13,10 @@ public class LoadingManager : MonoBehaviour
 
     [Header("Settings")]
     public string sceneToLoad;
-    public float fakeLoadTime = 3f; // Duración artificial del progreso
+    public float fakeLoadTime = 3f;
 
     private void Start()
     {
-        Debug.Log("[LoadingManager] Iniciando carga de escena con simulación visual: " + sceneToLoad);
         StartCoroutine(LoadSceneWithProgress(sceneToLoad));
     }
 
@@ -49,11 +48,10 @@ public class LoadingManager : MonoBehaviour
             if (loadingText != null)
                 loadingText.text = Mathf.RoundToInt(visualProgress * 100f) + "%";
 
-            Debug.Log($"[LoadingManager] Visual: {Mathf.RoundToInt(visualProgress * 100f)}% - Real: {Mathf.RoundToInt(targetProgress * 100f)}%");
+            // Debug.Log($"[LoadingManager] Visual: {Mathf.RoundToInt(visualProgress * 100f)}% - Real: {Mathf.RoundToInt(targetProgress * 100f)}%");
             
             if (targetProgress >= 0.9f && elapsedTime >= fakeLoadTime)
             {
-                Debug.Log("[LoadingManager] Escena lista y tiempo cumplido, activando...");
                 asyncOp.allowSceneActivation = true;
             }
 

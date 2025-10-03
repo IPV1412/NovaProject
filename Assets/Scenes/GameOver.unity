@@ -831,9 +831,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   displayToggleButton: {fileID: 0}
-  brightnessSlider: {fileID: 0}
+  brightnessSlider: {fileID: 349758498}
   brightnessOverlay: {fileID: 211059473}
-  brightnessText: {fileID: 0}
+  brightnessText: {fileID: 321833963}
 --- !u!114 &394597774
 MonoBehaviour:
   m_ObjectHideFlags: 0
