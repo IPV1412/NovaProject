@@ -30,24 +30,24 @@ public class EnemyAIController : MonoBehaviour
     {
         if (health.ChechIfDead())
         {
-            Debug.Log("ESTOY MUERTO");
+            //Debug.Log("ESTOY MUERTO");
             Destroy(gameObject);
         }
 
 
         if (vision.PlayerInAttackRange())
         {
-            Debug.Log("Estado de ataque");
+            //Debug.Log("Estado de ataque");
             attack.Attack(vision.Player);
         }
         else if (vision.PlayerInVision())
         {
-            Debug.Log("Estado de perseguir");
+            //Debug.Log("Estado de perseguir");
             movement.MoveTo(vision.Player.position);
         }
         else
         {
-            Debug.Log("Estado de patrullaje");
+            //Debug.Log("Estado de patrullaje");
             patrol.Patrol();
         }
 

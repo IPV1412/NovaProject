@@ -3,11 +3,10 @@ using UnityEngine;
 public class HealComponent : MonoBehaviour
 {
     [SerializeField] private float visionRange = 10f;
-    [SerializeField] private float healRange = 5;
-    private bool isHealing;
 
-    [SerializeField] public HealthComponent otherHealth;
-    [SerializeField] public Transform otherTransform;
+    [HideInInspector] public HealthComponent targetHealth;
+    [HideInInspector] public Transform targetTransform;
+    private bool inRange = false;
     [SerializeField] private string allyTag;
 
     [SerializeField] private float healCooldown = 0.5f;
@@ -15,32 +14,50 @@ public class HealComponent : MonoBehaviour
 
     public bool AllyInVisionRange()
     {
-        if (otherTransform == null) return false;
-        return Vector3.Distance(transform.position, otherTransform.position) <= visionRange;
+        return inRange; 
     }
-
-    public bool AllyInHealRange()
+    private void Update()
     {
-        if (otherTransform == null) return false;
-        return Vector3.Distance(transform.position, otherTransform.position) <= healRange;
+        if(targetTransform == null)
+        {
+            Debug.Log("NO HAY TRANSFORM");
+        }
+        else
+        {
+            Debug.Log("SI HAY TRANSFORM");
+        }
     }
-
-    public bool NeedsHeal()
+    public bool AllyNeedsHeal()
     {
-        return otherHealth != null && otherHealth.currentHealth < otherHealth.maxHealth;
+        return targetHealth != null && targetHealth.currentShield < targetHealth.maxShield;
     }
-
     public void HealAlly()
     {
-        if (otherHealth != null && Time.time >= nextHealTime)
+        if (targetHealth != null && Time.time >= nextHealTime)
         {
-            if (otherHealth.currentHealth < otherHealth.maxHealth)
+            if (targetHealth.currentShield < targetHealth.maxShield)
             {
-                otherHealth.AddHealth(10);
-                Debug.Log("Curando al jugador: " + otherHealth.name);
+                targetHealth.AddShield(10);
+                Debug.Log("Curando al jugador: " + targetHealth.name);
             }
 
             nextHealTime = Time.time + healCooldown;
+        }
+    }
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.CompareTag(allyTag))
+        {
+            targetHealth = other.GetComponent<HealthComponent>();
+            targetTransform = other.transform;
+        }
+    }
+    private void OnTriggerExit(Collider other)
+    {
+        if (other.CompareTag(allyTag))
+        {
+            targetHealth = null;
+            targetTransform = null;
         }
     }
 }

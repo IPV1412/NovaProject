@@ -11,7 +11,7 @@ public class PatrolComponent : MonoBehaviour
     {
         movement = GetComponent<MovementComponent>();
     }
-
+    
     public void StartPatrol()
     {
         if (patrolPoints.Length > 0)
