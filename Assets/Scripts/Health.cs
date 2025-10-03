@@ -53,6 +53,7 @@ public class Health : MonoBehaviour
 
     public void SubtractHealth(int amount)
     {
+        Debug.Log("DAÑO AL JUGADOR");
         CurrentHealth -= amount;
         CurrentHealth = Mathf.Clamp(CurrentHealth, 0f, MaxHealth);
         HandleDeath();

@@ -58,8 +58,6 @@ public class HealthComponent : MonoBehaviour
     {
         if (other.CompareTag(damageTag))
         {
-            Debug.Log("Colisión con: " + other.name);
-
             if (currentShield > 0)
                 SubtractShield(collisionDamage);
             else

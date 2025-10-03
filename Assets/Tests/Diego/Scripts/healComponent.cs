@@ -2,8 +2,6 @@ using UnityEngine;
 
 public class HealComponent : MonoBehaviour
 {
-    [SerializeField] private float visionRange = 10f;
-
     [HideInInspector] public HealthComponent targetHealth;
     [HideInInspector] public Transform targetTransform;
     private bool inRange = false;
@@ -16,17 +14,7 @@ public class HealComponent : MonoBehaviour
     {
         return inRange; 
     }
-    private void Update()
-    {
-        if(targetTransform == null)
-        {
-            Debug.Log("NO HAY TRANSFORM");
-        }
-        else
-        {
-            Debug.Log("SI HAY TRANSFORM");
-        }
-    }
+   
     public bool AllyNeedsHeal()
     {
         return targetHealth != null && targetHealth.currentShield < targetHealth.maxShield;

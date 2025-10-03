@@ -35,13 +35,9 @@ public class Flying_AI : MonoBehaviour
                 kamikaze.AutoExplode();
             }
         }
-        if (shot.PlayerInShotRange())
+        else
         {
-            shot.Shot();
-            Debug.Log("Disparando");
+            patrol.Patrol();
         }
-        
-        patrol.Patrol();
-
     }
 }
