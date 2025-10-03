@@ -181,6 +181,7 @@ MonoBehaviour:
   ShieldBar: {fileID: 7332927425741024808}
   damageTag: Bullet
   collisionDamage: 10
+  barPrefab: {fileID: 6643437360097746137, guid: 0ec706603b26ddc44a47dca5dd73efc2, type: 3}
 --- !u!1 &1648960685867433469
 GameObject:
   m_ObjectHideFlags: 0

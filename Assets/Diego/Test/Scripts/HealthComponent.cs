@@ -13,9 +13,11 @@ public class HealthComponent : MonoBehaviour
     public Slider healthBar;
     public Slider ShieldBar;
 
-    [Header("Daño por colisión")]
+    [Header("DaÃ±o por colisiÃ³n")]
     [SerializeField] private string damageTag; 
     [SerializeField] private int collisionDamage = 10;
+    [SerializeField] public GameObject barPrefab;
+    private GameObject barInstance;
 
     void Start()
     {
@@ -74,6 +76,12 @@ public class HealthComponent : MonoBehaviour
     }
     public void Dead()
     {
+        SpawnUpgrade();
         Destroy(this);
+    }
+    void SpawnUpgrade()
+    {
+        Vector3 spawnPosition = new Vector3(transform.position.x, transform.position.y + 0.1f , transform.position.z);
+        barInstance = Instantiate(barPrefab, spawnPosition, transform.rotation);
     }
 }
